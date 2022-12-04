@@ -1,1 +1,89 @@
 
+#finding maximum of three numbers
+a=1
+b=2
+c=3
+print(max(a,b,c))
+
+
+#python function to sum all the numbers in a list.
+numbers=[8,2,3,0,7]
+for i in numbers:
+      sum=sum+i
+print(sum)
+
+#python function to multiply all the numbers in list.
+numbers=[8,2,3,-1,7]
+for i in mumbers:
+       num=num*i
+print(num)
+
+#pytthon function to reverse a string
+given="1234abcd"
+reverse=giben[::-1]
+print(reverse)
+
+#python program to print even numbers in alist
+list=[1,2,3,4,5,6,7,8,9]
+for i in list:
+     if i%2==0:
+       print(i,end=" ")
+      
+      
+#first 10 natural numbers.
+num=1
+while(num<10):
+     print(num)
+     num=num+1
+     
+     
+#printing reverse numbered pattern
+for i in range(i+1):
+      for j in range(i+1):
+          print(j1,sum=" ")
+      print()
+ 
+ 
+ #sum of numbers
+ n=int(input())
+ sum=0
+ for num in range(1,n+1,1):
+        sum=sum+num
+ print(sum)
+ 
+ 
+ 
+ #printing reverse nunbered pattern
+ n=int(input())
+ for i in range(n):
+     for j in range(n-i-1,-1,-1):
+        print(j+1,end=" ")
+     print()
+ 
+#printing all prime numbers withina range
+
+ 
+ 
+#printing ccube of all numbers from 1 to given number
+lower_value=int(input())
+upperValue=int(input())
+for num in rangr(lower_value,upperValue+1)
+    if num>1:
+       for i in range(2,num):
+         if (num%i)==0:
+           break
+     else:
+     print(number)
+  
+  
+  
+  
+  #
+ 
+
+
+
+
+
+
+       
